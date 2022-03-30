@@ -251,9 +251,3 @@ nyc_trends = [{'as_of': '2022-03-29T21:12:02Z',
               'query': 'Macedonia',
               'tweet_volume': 62942,
               'url': 'http://twitter.com/search?q=Macedonia'}]}]
-
-#1) Using this information, create a bar chart of the top 10 topics based on their corresponding
-# tweet volume.
-
-#2) Create a Word Cloud of all topics with over 20,000 tweet volume. The size of the word (topic)
-#should be based on their tweet volume.
